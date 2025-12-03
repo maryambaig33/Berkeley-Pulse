@@ -1,0 +1,5 @@
+{
+  "name": "Berkeley Pulse",
+  "description": "An AI-enhanced local news reader that updates static stories with real-time information and local context.",
+  "requestFramePermissions": []
+}
